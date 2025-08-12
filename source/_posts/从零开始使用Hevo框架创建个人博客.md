@@ -93,7 +93,8 @@ Hexo 是基于 Node.js 的，所以必须安装它。
     
 终端会显示：
 INFO Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
-现在，打开浏览器，访问 http://localhost:4000，你就能看到 Hexo 的默认博客页面了！
+现在，打开浏览器，访问 http://localhost:4000
+你就能看到Hexo的默认博客页面了！
 提示：在终端按 Ctrl+C 可以停止本地服务。
 
 ## 第四步：创建 GitHub 仓库
